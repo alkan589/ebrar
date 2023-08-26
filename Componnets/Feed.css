@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+
+    justify-content: center;
+}
+.card{
+    width:250px;
+    height:150px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+
+}
+.cont{
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    color:black;
+    font-size: 25px;
+}
+.id{
+    color:"grey";
+}
+.description{
+    margin:auto;
+    align-items: center;
+}
